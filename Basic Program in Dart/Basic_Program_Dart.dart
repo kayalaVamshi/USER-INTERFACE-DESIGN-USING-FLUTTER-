@@ -1,6 +1,6 @@
 void main() {
-  String name = 'MARRY';
-  int age = 25;
+  String name = 'John';
+  int age = 20;
 
   print('Name: $name, Age: $age');
 
@@ -10,7 +10,7 @@ void main() {
     print('$name is a minor.');
   }
 
-  for (int i = 1; i <= 4; i++) {
+  for (int i = 1; i <= 3; i++) {
     print('Count: $i');
   }
 
